@@ -5,7 +5,7 @@ This repository contains simple Java implementations of **Binary Search** and **
 
 ---
 
-## 📂 Files
+##  Files
 
 - **BINARY_SEARCH_ITERATIVE.java** – Iterative implementation of Binary Search  
 - **BINARY_SEARCH_RECURSIVE.java** – Recursive implementation of Binary Search  
@@ -14,7 +14,7 @@ This repository contains simple Java implementations of **Binary Search** and **
 
 ---
 
-## 📌 Algorithms Overview
+##  Algorithms Overview
 
  Linear Search
 - **Description**:  
