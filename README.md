@@ -40,23 +40,3 @@ This repository contains simple Java implementations of Binary Search and Linear
 
 ---
 
-## How to Run
-
-1. Clone the Repository
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
-   ---
-2.Compile the Java Files
-javac BINARY_SEARCH_ITERATIVE.java
-javac BINARY_SEARCH_RECURSIVE.java
-javac LINEAR_SEARCH_ITERATIVE.java
-javac LINEAR_SEARCH_RECURSIVE.java
-
----
-3.Run the programs
-java BINARY_SEARCH_ITERATIVE
-java BINARY_SEARCH_RECURSIVE
-java LINEAR_SEARCH_ITERATIVE
-java LINEAR_SEARCH_RECURSIVE
-
